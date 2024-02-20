@@ -1,6 +1,6 @@
 ---
-title: "New Quarto"
-author: "Sophie"
+title: "The Quarto Report"
+author: ""
 format: html
 editor: visual
 ---
