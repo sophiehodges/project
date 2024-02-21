@@ -1,5 +1,6 @@
 ---
 title: "The Quarto Report"
+author: "Person B"
 format: html
 editor: visual
 ---
